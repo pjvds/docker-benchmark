@@ -1,0 +1,1 @@
+sudo docker run -v $(pwd):/result -e UB_RESULTDIR=/result bench
